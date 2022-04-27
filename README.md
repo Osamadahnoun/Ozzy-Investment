@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is the second in a six part series I've created to really master my UI development skills. For this project, I've built a beautiful website for and accounting and investment company name Ozzy Investment.
+This project is the second in my UI mastery series. The UI mastery series is a series I created consisting of seven total projects (mini and full projects) to really master my UI development skills. For this project, I've built a beautiful website for and accounting and investment company name Ozzy Investment.
 
 ## Screenshot of Deployed Application
 
